@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/session-performance-optimizer-210728-210738/session_performance_frontend"
+}
